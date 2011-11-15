@@ -1,3 +1,4 @@
 #!/usr/bin/env python
 a = 1
-print "sum =", a
+print "(1, " , a 
+b = 'aa' + a
