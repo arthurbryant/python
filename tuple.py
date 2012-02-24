@@ -1,11 +1,5 @@
 #!/usr/bin/env python
-str = "abc def hgi"
-str = str.split(" ")
-str = tuple(str)
-print str
-def test_tuple(tup):
-    print tup[0]
-    print tup[1]
-    print tup[2]
-test_tuple(str)
-
+t = (1, 2, 3, 4, 5)
+for i in t[1:len(t)-1]:
+    print i
+print t[len(t)-1]

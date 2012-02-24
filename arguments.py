@@ -1,8 +1,13 @@
 #!/usr/bin/env python
+
+# zhangfeng
+# arguments.py 
+# 2012-02-20
+
 import sys
-try:
-    total = sum(int(arg)
-            for arg in sys.argv[1:])
-    print total
-except ValueError:
-    print 'Integer only'
+
+def a(x, y=3):
+    return x+y
+print a(1)
+print a(2, 2)
+print a(y=10, x=12)
