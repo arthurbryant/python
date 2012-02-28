@@ -8,4 +8,3 @@ print not_equal(0, -1)
 print not_equal(-1, -1)
 print not_equal(True, True)
 print not_equal(False, True)
-
