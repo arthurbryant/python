@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 import sys
 
-f = open("text")
+try:
+	f = open("fine.py", "r")
+except IOError
+	pass
+"""
 content = f.read()
 print content 
 sys.stdin.flush()
@@ -18,3 +22,4 @@ try:
     f.write("end")
 finally:
     f.close()
+	"""
