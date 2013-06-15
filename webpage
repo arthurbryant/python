@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>西安交通大学</title>
+	<meta name="author" content="11loeR@BMY">
+	<meta name="keywords" content="西安交通大学">
+	<meta name="description" content="西安交通大学">
+	<link href="AloeR/AloeR_xjtu.css" rel="stylesheet" type="text/css">
+	<script language="JavaScript" src="AloeR/AloeR_xjtu.js" type="text/JavaScript"></script>
+</head>
+<body>
+	<div class="pw i_top">
+		<div class="i_xjtu"><img src="AloeR/i_xjtu.jpg" width="320" height="98" /></div>
+		<div class="i_top_R">
+			<div class="i_en"><img src="AloeR/i_en.jpg" border="0" usemap="#Map" title="English Version" /></div>
+			<map name="Map" id="Map">
+  <area shape="rect" coords="551,2,631,15" href="http://www.xjtu.edu.cn/en/" target="_blank" alt="English Version" />
+<area shape="rect" coords="480,1,542,16" href="http://map.xjtu.edu.cn" target="_blank" alt="虚拟校园" />
+</map>
+			<div class="i_menu"><script type="text/javascript" src="tab_js/nav_index.js"></script></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="pw i_mid">
+		<div class="i_pic"><script type="text/javascript" src="tab_js/news_pic.js"></script></div>
+		<div class="i_xiaoxun">
+			<div class="i_search">
+				<table cellpadding="0" cellspacing="0">
+					<form method="get" action="http://search.xjtu.edu.cn" target="_blank">
+					<tr>
+						<td nowrap="NOWRAP"><span class="i_search">校内搜索</span></td>
+						<td><input name="query" class="i_search" type="text" onMouseOver="this.focus()" onFocus="this.select()" /></td>
+						<td><select name="cl">
+						  <option value="all">所有类别</option>
+						  <option value="news">新闻分类</option>
+						  <option value="teach">科研分类</option>
+						  <option value="study">教学分类</option>
+						</select></td>
+						<td>&nbsp;<input name="" type="image" src="AloeR/i_search.gif" /></td>
+					</tr>
+					</form>
+			  </table>
+			</div>
+		</div>
+		<div class="clear">&nbsp;</div>
+		<div class="i_zt">
+			<div class="i_zt_1">
+				<div class="i_zt_L"><img src="AloeR/i_zt1.gif" width="150" height="50" /></div>
+				<div class="i_zt_R"><script type="text/javascript" src="tab_js/zt.js"></script></div>
+			</div>
+		</div>
+	</div>
+	<div class="pw split">&nbsp;</div>
+	<div class="pw i_content">
+			<div id="i_con_1">
+				<div id="i_con_11"><a href="http://meeting.xjtu.edu.cn" target="_blank"><img src="AloeR/i_xsxx.jpg" alt="更多学术信息" border="0" /></a></div>
+				<div id="i_con_12"><script type="text/javascript" src="tab_js/meeting.js"></script></div>
+				<div id="i_con_13"><a href="http://noa.xjtu.edu.cn" target="_blank"><img src="AloeR/i_tzgg.jpg" alt="更多通知公告" border="0" /></a></div>
+				<div id="i_con_14"><script type="text/javascript" src="tab_js/noa.js"></script></div>
+			</div>
+			<div id="i_con_2">
+				<div id="i_con_21"><a href="http://xjtunews.xjtu.edu.cn/" target="_blank"><img src="AloeR/i_news.jpg" alt="进入西安交通大学新闻网" border="0" /></a></div>
+				<div id="i_con_22"><!-- begin --><script type="text/javascript" src="tab_js/news.js"></script><!-- end --></div>
+			</div>
+			<div id="i_con_3">
+				<div id="i_con_31"><script type="text/javascript" src="tab_js/kstd.js"></script></div>
+			</div>
+	</div>
+
+	<div class="pw"><img src="AloeR/i_foot.gif" width="984" height="11" /></div>
+	<div class="pw i_bottom">
+		地址：陕西省西安市咸宁西路28号 邮编：<a href=http://copilka.info/ style="text-decoration: none; color: #6d6d6d">710049</a> <br />
+		版权所有：西安交通大学 站点设计：信息与网络中心  陕ICP备05001571号
+	</div>
+
+
+
+    
+</body>
+</html>
