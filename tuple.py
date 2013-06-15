@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env python
 str = "abc def hgi"
 str = str.split(" ")
@@ -8,4 +9,3 @@ def test_tuple(tup):
     print tup[1]
     print tup[2]
 test_tuple(str)
-

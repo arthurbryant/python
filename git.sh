@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 git pull 
 git add .

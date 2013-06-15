@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=2.0"/>
+<meta name="MobileOptimized" content="240"/>
+<title>新浪手机邮箱3G版</title>
+<link href="http://www.sinaimg.cn/rny/sinamail-wap/css/110816/style.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+	<div class="wrap wrap230">
+		<div class="head"><img src="http://www.sinaimg.cn/rny/sinamail-wap/images/logo.jpg" /></div>
+		<div class="main">
+			<div class="homepg">
+				<div class="loginMod">免费邮箱&nbsp;|&nbsp;<a href="index.php?vt=3&vip">VIP邮箱</a><br/></div>
+                            <form action="login.php?vt=3" method="POST">
+                                <input type='hidden' name="vt" value="3"/>
+                                <input type='hidden' name="logintype" value="uid"/>
+								<div class="loginMod">
+                                    <div class="">欢迎使用新浪手机邮箱！</div>
+                                        <div>邮箱名：</div>
+                                        <div><input class="inputTxt" type="text" name="LoginName" maxlength='30' title="帐号"/></div>
+                                        <div class="choose">
+                                            <select name="LoginDomain">
+                                                <option  value="sina.com">@sina.com</option>
+                                                <option value="sina.cn">@sina.cn</option>
+												<option value="2008.sina.com">@2008.sina.com</option>
+												<option value="vip.sina.com">@vip.sina.com</option>
+                                            </select>
+                                        </div>
+                                        <div>密码：</div>
+                                        <div><input class="inputTxt" name="PassWd" type="password" value="" title="密  码" /></div>
+                                        <div class="tip"><input name="remember" type="checkbox" value='1' checked='true'/>记住我,需支持cookie功能</div>
+                                    <div class="loginBtn"><input type="submit" value="登录" />&nbsp;<a href="reg.php?vt=3">注册</a></div>
+                                </div>
+                            </form>
+			</div>
+		</div>
+		<div class="foot">
+			<p class="p1">&lt;<a class="simple" href="index.php?vt=1">简版</a>|&nbsp;3G版&nbsp;|<a class="simple" href="http://mail.sina.com.cn/?dev=pc">PC版</a>&gt;</p>
+			<p><a href="http://bst.sina.cn/?vt=3">新浪百事通</a>--<a href="http://3g.sina.com.cn/prog/wapsite/message/prog/userMesgList.php?titleId=103">意见反馈</a></p>
+			<p><a href="http://weibo.cn/dpool/ttt/index.php?vt=3">新浪微博</a>--<a href="http://3g.sina.com.cn/3g/blog/?vt=3">新浪博客</a></p>
+			<p>客服电话：<a href='tel:4006900000'>4006-900-000</a></p>
+			<p class="homepgLine"><img src="http://www.sinaimg.cn/rny/sinamail-wap/images/bg_homepgline.gif" /></p>
+			<p><a href="http://3g.sina.com.cn/?from=3gsinacom">手机新浪网</a>--<a href="http://news.sina.cn/?sa=t124d13098v84&amp;pos=1&amp;vt=3">导航</a>--<a href="http://3g.sina.com.cn/iask/?p=3gb&amp;vt=3">搜索</a></p>
+			<p>04-27 19:53</p>
+		</div>
+	</div>
+</body>
+</html>
