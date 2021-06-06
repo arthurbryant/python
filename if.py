@@ -4,5 +4,5 @@ p = re.compile("\.edu\.cn")
 result = p.search("xjtu.edu.cn")
 if result is None:
 	print "match"
-else:
+else
 	print result.group()

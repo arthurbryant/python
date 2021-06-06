@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # zhangfeng
-# arguments.py 
+# arguments.py
 # 2012-02-20
 
 import sys

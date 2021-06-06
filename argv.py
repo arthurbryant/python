@@ -1,4 +1,5 @@
-#!/usr/bin/python 
+#!/usr/bin/python
+
 import sys
 
 class person:
@@ -10,11 +11,11 @@ class person:
         for arg in argv:
             print arg, "\n"
             if(i == 0):
-                self.name = arg 
+                self.name = arg
             elif(i == 1):
-                self.age = arg 
+                self.age = arg
             else:
-                self.purpose += arg 
+                self.purpose += arg
             i = i+1
             print i
     def display(self):
@@ -22,7 +23,7 @@ class person:
 
 if len(sys.argv) < 3:
     print "Usage: ./argv.py input"
-    sys.exit(-1) 
+    sys.exit(-1)
 else:
     print sys.argv[1:]
     print sys.argv[1]
